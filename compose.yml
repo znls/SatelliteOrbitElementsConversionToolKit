@@ -8,4 +8,4 @@ services:
       - JUPYTER_ENABLE_LAB=yes
     volumes:
       - ./data:/home/jovyan/work
-    command: start-notebook.sh
+    command: start-notebook.py

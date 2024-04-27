@@ -1,4 +1,3 @@
-version: "3.9"
 services:
   jupyter:
     container_name: orbit-elm-jupyter
